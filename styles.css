@@ -1,0 +1,122 @@
+.planets {
+  align-self: start;
+  margin-top: 25px;
+}
+
+.headernatal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: start;
+}
+.stikcontainer {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+.stick {
+  position: sticky;
+  top: 0px;
+  left: 0px;
+  align-self: start;
+}
+
+.mainpicture {
+  margin: auto;
+  display: block;
+}
+
+.photo {
+  background-image: url("yong.jpg");
+  width: 1163px;
+  height: 622px;
+  /* margin: auto; */
+  margin-bottom: 50px;
+}
+.text {
+  margin-top: 5px;
+  /* width: 350px; */
+  font-size: 25px;
+}
+/* .text p { */
+/* color: white; */
+/* font-style: italic; */
+/* font-weight: bold; */
+/* } */
+.title {
+  text-align: center;
+  margin-top: 5px;
+  font-size: 30px;
+  font-weight: bold;
+}
+.table {
+  margin-top: 10px;
+}
+.florencia {
+  background-image: url("florencia.jpg");
+  width: 680px;
+  height: 434px;
+  /* margin: auto; */
+  margin-bottom: 25px;
+}
+.biblioteka {
+  background-image: url("biblioteka.webp");
+  width: 680px;
+  height: 434px;
+  /* margin: auto; */
+  margin-bottom: 25px;
+}
+.pediatria {
+  background-image: url("pediatria.jpg");
+  width: 640px;
+  height: 426px;
+  /* margin: auto; */
+  margin-bottom: 25px;
+}
+.philosof {
+  background-image: url("philosof.jpg");
+  width: 640px;
+  height: 274px;
+  /* margin: auto; */
+  margin-bottom: 25px;
+}
+.adult {
+  background-image: url("adult.jpg");
+  width: 640px;
+  height: 300px;
+  /* margin: auto; */
+  margin-bottom: 25px;
+}
+.india {
+  background-image: url("india.jpg");
+  width: 640px;
+  height: 300px;
+  /* margin: auto; */
+  margin-bottom: 25px;
+}
+
+.money {
+  background-image: url("money.jpg");
+  width: 960px;
+  height: 667px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.text_y {
+  padding-top: 250px;
+  padding-left: 20px;
+}
+.text_y p {
+  width: 350px;
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+}
+.sea {
+  background-image: url("sea.jpg");
+  width: 1207px;
+  height: 705px;
+  margin: auto;
+  margin-bottom: 50px;
+}
