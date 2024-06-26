@@ -111,12 +111,12 @@
 .text p {
   text-align: center;
 }
-@media (min-width: 900px) {
+@media screen and (min-width: 900px) {
   .phone {
     display: none;
   }
 }
-@media (max-width: 899px) {
+@media screen and (max-width: 899px) {
   .mainphoto {
     display: none;
   }
