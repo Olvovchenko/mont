@@ -111,3 +111,13 @@
 .text p {
   text-align: center;
 }
+@media (min-width: 900px) {
+  .phone {
+    display: none;
+  }
+}
+@media (max-width: 900px) {
+  .mainphoto {
+    display: none;
+  }
+}
