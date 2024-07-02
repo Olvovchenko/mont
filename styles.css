@@ -1,3 +1,6 @@
+body {
+  background-color: blueviolet;
+}
 .planets {
   align-self: start;
   margin-top: 25px;
@@ -23,7 +26,7 @@
 }
 
 .mainpicture {
-  margin: auto;
+  /* margin: auto; */
   display: block;
 }
 
@@ -45,6 +48,9 @@
   margin-top: 5px;
   font-size: 30px;
   font-weight: bold;
+}
+.data {
+  page-break-before: always;
 }
 .table {
   margin-top: 10px;
@@ -71,6 +77,7 @@
   height: 426px;
   margin: auto;
   margin-bottom: 25px;
+  display: none;
 }
 .philosof {
   background-image: url("philosof.jpg");
